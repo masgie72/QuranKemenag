@@ -1,0 +1,7 @@
+{
+  "name": "Quran Kemenag & Jadwal Shalat",
+  "description": "Aplikasi Al-Quran digital dengan standar Kemenag RI, dilengkapi jadwal shalat akurat dan fitur notifikasi Adzan.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
